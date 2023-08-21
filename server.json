@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "incone",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "Sat Aug 19 2023"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 5900,
+      "createdAt": "Sat Aug 19 2023"
+    },
+    {
+      "id": 3,
+      "description": "Aluguel do apartamento",
+      "type": "outcome",
+      "category": "Casa",
+      "price": 1200,
+      "createdAt": "Sat Aug 19 2023"
+    },
+    {
+      "id": 4,
+      "description": "Computador",
+      "type": "incone",
+      "category": "Venda",
+      "price": 5400,
+      "createdAt": "Sat Aug 19 2023"
+    },
+    {
+      "description": "Janta",
+      "price": 39,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-20T16:33:35.634Z",
+      "id": 5
+    }
+  ]
+}
